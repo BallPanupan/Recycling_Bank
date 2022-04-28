@@ -42,4 +42,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 ## Run server
+
+laravel new name
+
+composer create-project --prefer-dist laravel/laravel name "5.3.*"
+
 php artisan serve
